@@ -57,9 +57,3 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
-
-## Deployed
-👉 Live Demo: [e-Commerce](https://ruhulaminparvez.pythonanywhere.com/)
-
-## Bugs
-> *If there any known bugs found or run into any issues please let me know. Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Email: 👉 ruhulaminparvez007@gmail.com 😊 Thank you!*
